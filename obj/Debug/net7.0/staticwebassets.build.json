@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oTBug5KQLvNYA4ZEPyvl+Ukm4sUSDZ3nP9yl8LY45C4=",
+  "Source": "dotnet-library-management-system",
+  "BasePath": "_content/dotnet-library-management-system",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

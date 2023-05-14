@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dotnet-library-management-system.props" />
+</Project>
