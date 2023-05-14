@@ -18643,6 +18643,37 @@
     "CSharpLanguageVersion": 1100
   },
   "RootNamespace": "dotnet_library_management_system",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "d:\\workspace\\dotnet-library-management-system\\Views\\Shared\\Layout\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\Layout\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\workspace\\dotnet-library-management-system\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\workspace\\dotnet-library-management-system\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\workspace\\dotnet-library-management-system\\Views\\Dashboard\\Index.cshtml",
+      "TargetPath": "Views\\Dashboard\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\workspace\\dotnet-library-management-system\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\workspace\\dotnet-library-management-system\\Views\\Shared\\Layout\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\Layout\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.3"
 }
